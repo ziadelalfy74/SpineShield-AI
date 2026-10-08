@@ -19,3 +19,9 @@ An AI-powered desktop application that monitors posture in real-time using Media
 1. Clone the repository:
    ```bash
    git clone https://github.com/ziadelalfy74/SpineShield-AI.git
+
+1-Install dependencies:
+   pip install -r requirements.txt
+
+2-Run the application:
+   python gui.py
