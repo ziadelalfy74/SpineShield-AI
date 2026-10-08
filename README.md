@@ -3,7 +3,8 @@
 An AI-powered desktop application that monitors posture in real-time using MediaPipe Pose Landmarker and CustomTkinter to prevent slouching and improve health.
 
 ## 🚀 Features
-- **It helps keep your back straight and healthy.
+
+- It helps keep your back straight and healthy.
 - **Real-time Posture Tracking**: Uses webcam feed to track key body posture landmarks.
 - **Visual & Audio Alerts**: Notifies you when slouching is detected.
 - **Modern UI**: Built with CustomTkinter for a sleek dark-themed interface.
